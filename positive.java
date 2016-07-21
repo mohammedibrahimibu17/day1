@@ -1,5 +1,5 @@
 import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 class Day
 {
 public static void main(String args[])
